@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 Student passionate about Web Development & Software Engineering
+* 🎓 Computers and Information student passionate about Web Development & Software Engineering
 * 🛠️ Building modern, interactive, and user-friendly web projects
 * 🚀 Always learning new technologies and improving my coding skills
 
@@ -28,7 +28,10 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact & Email Details
+
+* **Email Address:** `nagyfaten92@gmail.com`
+* **Direct Mail:** [Send an Email to Faten Nagy](mailto:nagyfaten92@gmail.com?subject=Hello%20Faten%20Nagy)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:nagyfaten92@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-nagyfaten92%40gmail.com-%23D14836.svg?logo=gmail&logoColor=white)](mailto:nagyfaten92@gmail.com)
